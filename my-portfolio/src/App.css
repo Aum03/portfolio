@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+}
+
+@media screen and (max-width:480px){
+  .App{
+    display: flex;
+    flex-direction: column;
+    
+  
+  }
+}
